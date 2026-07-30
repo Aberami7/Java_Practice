@@ -1,16 +1,18 @@
 <div align="center">
 
-<h1>☕ Java Practice</h1>
+<h1>☕ Java Practice Hub</h1>
 
 <h3>
-💻 Coding • Problem Solving • Programming Fundamentals
+🚀 Learning Java Through Problem Solving
 </h3>
 
 <img src="https://img.icons8.com/?size=100&id=Mpu9jzWfJVCW&format=png&color=000000" width="90"/>
 
 <br><br>
 
-A collection of Java programming questions with solutions to improve coding skills and strengthen problem-solving fundamentals.
+<p>
+A collection of Java programming questions and solutions focused on building strong fundamentals, logical thinking, and problem-solving skills.
+</p>
 
 </div>
 
@@ -18,52 +20,7 @@ A collection of Java programming questions with solutions to improve coding skil
 
 <div align="center">
 
-<h2>📚 Topics Covered</h2>
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🔢 Arrays</h3>
-
-Practice programs based on  
-array operations and logic building.
-
-</td>
-
-
-<td align="center" width="33%">
-
-<h3>🔤 Strings</h3>
-
-Programs focused on  
-string manipulation and concepts.
-
-</td>
-
-
-<td align="center" width="33%">
-
-<h3>🧮 2D Arrays</h3>
-
-Matrix-based problems and  
-multidimensional array practice.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>🎯 Purpose</h2>
+<h2>🧭 My Java Learning Journey</h2>
 
 <table>
 
@@ -71,9 +28,33 @@ multidimensional array practice.
 
 <td align="center">
 
-This repository contains Java practice questions and solutions  
-to improve programming fundamentals, logical thinking,  
-and coding interview preparation.
+<h3>1️⃣ 🔢 Arrays</h3>
+
+Building logic with array operations, searching, sorting, and problem-solving techniques.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>2️⃣ 🔤 Strings</h3>
+
+Practicing string manipulation, character handling, and pattern-based problems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<h3>3️⃣ 🧮 2D Arrays</h3>
+
+Solving matrix-based problems and understanding multidimensional data handling.
 
 </td>
 
@@ -87,7 +68,75 @@ and coding interview preparation.
 
 <div align="center">
 
-<h2>🛠️ Technology Used</h2>
+<h2>📚 What You'll Find Here</h2>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+💡 Beginner-friendly Java programs
+
+<br><br>
+
+🧠 Logic building exercises
+
+<br><br>
+
+🎯 Interview preparation problems
+
+<br><br>
+
+✨ Clean and readable solutions
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>📊 Current Focus</h2>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🔢 Arrays&nbsp;&nbsp; ✅
+
+</td>
+
+<td align="center">
+
+🔤 Strings&nbsp;&nbsp; ✅
+
+</td>
+
+<td align="center">
+
+🧮 2D Arrays&nbsp;&nbsp; 🔄
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>🛠️ Technology</h2>
 
 <table>
 
@@ -113,6 +162,6 @@ Programming Language
 
 <div align="center">
 
-<h3>🚀 Keep Learning • Keep Coding</h3>
+<h3>⚡ Code. Learn. Improve. Repeat.</h3>
 
 </div>
