@@ -1,17 +1,18 @@
 <div align="center">
 
-<h1>☕ Java Practice Hub</h1>
+<h1>☕ Java Practice</h1>
 
 <h3>
-🚀 Learning Java Through Problem Solving
+🚀 A Journey of Learning Java Through Code
 </h3>
 
-<img src="https://img.icons8.com/?size=100&id=Mpu9jzWfJVCW&format=png&color=000000" width="90"/>
+<img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="100"/>
 
 <br><br>
 
 <p>
-A collection of Java programming questions and solutions focused on building strong fundamentals, logical thinking, and problem-solving skills.
+A curated collection of Java programming questions and solutions 
+created to strengthen coding fundamentals, logical thinking, and problem-solving skills.
 </p>
 
 </div>
@@ -20,46 +21,42 @@ A collection of Java programming questions and solutions focused on building str
 
 <div align="center">
 
-<h2>🧭 My Java Learning Journey</h2>
+## 🧠 Learning Path
 
 <table>
-
 <tr>
 
 <td align="center">
 
-<h3>1️⃣ 🔢 Arrays</h3>
+🔢 <b>Arrays</b>
 
-Building logic with array operations, searching, sorting, and problem-solving techniques.
+<br>
+
+Building problem-solving logic using array operations.
 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
-<h3>2️⃣ 🔤 Strings</h3>
+🔤 <b>Strings</b>
 
-Practicing string manipulation, character handling, and pattern-based problems.
+<br>
+
+Practicing string manipulation and logic-based problems.
 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
-<h3>3️⃣ 🧮 2D Arrays</h3>
+🧮 <b>2D Arrays</b>
 
-Solving matrix-based problems and understanding multidimensional data handling.
+<br>
+
+Solving matrix and multidimensional array problems.
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -68,93 +65,30 @@ Solving matrix-based problems and understanding multidimensional data handling.
 
 <div align="center">
 
-<h2>📚 What You'll Find Here</h2>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-💡 Beginner-friendly Java programs
-
-<br><br>
-
-🧠 Logic building exercises
-
-<br><br>
-
-🎯 Interview preparation problems
-
-<br><br>
-
-✨ Clean and readable solutions
-
-</td>
-
-</tr>
-
-</table>
+## 🎯 Repository Purpose
 
 </div>
+
+<p align="center">
+
+This repository contains Java practice programs with solutions,
+created to improve programming fundamentals and prepare for coding interviews.
+
+</p>
 
 ---
 
 <div align="center">
 
-<h2>📊 Current Focus</h2>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-🔢 Arrays&nbsp;&nbsp; ✅
-
-</td>
-
-<td align="center">
-
-🔤 Strings&nbsp;&nbsp; ✅
-
-</td>
-
-<td align="center">
-
-🧮 2D Arrays&nbsp;&nbsp; 🔄
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>🛠️ Technology</h2>
-
-<table>
-
-<tr>
-
-<td align="center">
+## 🛠 Technology
 
 ☕ Java
 
 <br>
 
-Programming Language
+<b>Concepts Covered:</b>
 
-</td>
-
-</tr>
-
-</table>
+Arrays • Strings • 2D Arrays
 
 </div>
 
@@ -162,6 +96,6 @@ Programming Language
 
 <div align="center">
 
-<h3>⚡ Code. Learn. Improve. Repeat.</h3>
+<h3>⚡ Code • Learn • Improve</h3>
 
 </div>
